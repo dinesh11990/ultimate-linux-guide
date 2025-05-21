@@ -30,9 +30,9 @@
 |-----------|-------------|
 | `/tmp` | Temporary files (cleared on reboot). |
 | `/run` | Holds runtime data for processes. |
-| `/proc` | Virtual filesystem for process and system information. |
+| `/proc` | Virtual filesystem for process and system information. Temperory folders , it ll store files that are not permanent |
 | `/sys` | Virtual filesystem for hardware and kernel information. |
-| `/dev` | Contains device files (e.g., `/dev/null`, `/dev/sda`). |
+| `/dev` | Contains device files (e.g., `/dev/null`, `/dev/sda`). Temperory folders , it ll store files that are not permanent |
 
 ### **Mount Points**
 | Directory | Description |
