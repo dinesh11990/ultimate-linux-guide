@@ -20,6 +20,7 @@
 
 🔹 The physical components of the computer (CPU, RAM, disk, network interfaces, etc.).
 🔹 The OS interacts with hardware using device drivers.
+
 (b) Kernel (Core of Linux OS)
 
 🔹 The Linux Kernel is responsible for directly managing system resources, including:
