@@ -13,7 +13,7 @@
 | Directory | Description |
 |-----------|-------------|
 | `/boot` | Stores files needed for booting the system (not relevant in containers). |
-| `/usr` | Contains most user-installed applications and libraries. |
+| `/usr` | Contains most user-installed applications and libraries. bin, sbin, lib are important |
 | `/var` | Stores logs, caches, and temporary files that change frequently. |
 | `/etc` | Stores system configuration files. |
 
